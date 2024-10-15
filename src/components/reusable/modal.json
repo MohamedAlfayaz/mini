@@ -1,0 +1,30 @@
+{
+  "invoiceInfo": {
+    "billFrom": "Company Name",
+    "GSTNo": "33AAQCM2589R1ZG",
+    "billTo": "Client Name",
+    "billToAddress": "Client Address",
+    
+    "billToTel": "123456789",
+    "billHSN": "1234",
+    "invoiceNumber": "INV123",
+    "currency": "INR",
+    "subTotal": "1000",
+    "taxAmount": "180",
+    "total": "1180"
+  },
+  "items": [
+    {
+      "name": "Product 1",
+      "description": "Product Description",
+      "quantity": 2,
+      "amount": 500
+    },
+    {
+      "name": "Product 2",
+      "description": "Another Product Description",
+      "quantity": 1,
+      "amount": 300
+    }
+  ]
+}

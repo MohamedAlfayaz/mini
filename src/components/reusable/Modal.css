@@ -1,0 +1,59 @@
+
+/* page 2 */
+body{
+    max-width: 100vw;
+    max-height: 100vh;
+}
+.one{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    text-align: end;
+}
+
+.qr-image{
+    display: flex;
+    align-items: center;
+}
+.qr-image h4{
+    margin-left: 60px;
+}
+
+.two{
+    display: flex;
+    margin-left: 50px;
+    width: 300px;
+}
+.para{
+    display: block;
+    flex-wrap: wrap;
+    font-size: 12px;
+    margin-left: 20px;
+}
+.para p{
+    margin-bottom: 4px;
+}
+.para .sub{
+    display: block;
+    margin-top: 0;
+}
+.para .add{
+    font-size: 14px;
+}
+.content{
+    display: flex;
+    align-items: center;
+}
+.h6{
+    padding-top: 15px;
+    margin-left: 60%;
+}
+.name{
+    margin-left: 50%;
+}
+.date p{
+    font-size: 15px;
+}
+.address{
+    font-size: 12px;
+}
